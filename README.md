@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello world! 🤖
+<img src="ProfileTerm.png" alt="Texto alternativo" width="400"/>
 <!--
 **jrubio-m/jrubio-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
